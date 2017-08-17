@@ -1,0 +1,1 @@
+The manifest.json file describes what's in the theme.  It contains details like version, author, description, copyright and licensing information in addition to the themes styling details.  This file makes it easy for none technical users to customize the look-and-feel of the theme. The system reads this file to get the theme's material.
