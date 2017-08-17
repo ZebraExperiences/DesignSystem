@@ -1,0 +1,31 @@
+{
+  "name": "MyTheme",
+  "styles": [
+    {
+      "name": "base",
+      "description": "this is default base style",
+      "styleColor": "blue"
+    },
+    {
+      "name": "black",
+      "description": "this is black base style",
+      "styleColor": "#000000"
+    }
+  ],
+  "layouts": [
+    {
+      "name": "base",
+      "description": "this is the base layout with a navigation drawer"
+    },
+    {
+      "name": "tabs",
+      "description": "this is a tabbed layout"
+    }
+  ],
+	"platform": "Android",
+  "version": "0.0.1",
+  "author": "Brian Porter",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
